@@ -47,3 +47,14 @@ Lunar-Lander-DQN/
 │ └── lunar_lander_agent.gif # Agent demo GIF
 ├── README.md # Project overview
 ```
+
+---
+
+## ⚠️ License
+
+This project is protected by copyright.
+
+You may **not** copy, reuse, modify, or distribute any part of this code, notebook, or visual materials without **explicit written permission** from the author.
+
+© Devarshi Choudhury, University of Liverpool, 2025.
+
