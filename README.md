@@ -37,6 +37,7 @@ This project implements a Deep Q-Network (DQN) agent to solve the [Lunar Lander]
 
 ## 🗂️ Project Structure
 
+```
 Lunar-Lander-DQN/
 ├── Lunar_Lander_DQN.ipynb # Main notebook with training & evaluation
 ├── plots/
@@ -45,3 +46,4 @@ Lunar-Lander-DQN/
 ├── media/
 │ └── lunar_lander_agent.gif # Agent demo GIF
 ├── README.md # Project overview
+```
