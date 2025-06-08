@@ -6,7 +6,7 @@ This project implements a Deep Q-Network (DQN) agent to solve the [Lunar Lander]
 
 ## 🎮 Agent Demo
 
-![Lunar Lander Agent Demo](media/lander_demo.gif)
+![Lunar Lander Agent Demo](media/lunar_lander_agent.gif)
 
 ---
 
