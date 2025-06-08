@@ -1,2 +1,49 @@
-# Lunar-Lander-DQN
-DQN-based reinforcement learning agent developed to solve the Lunar Lander environment using Gymnasium.
+# 🛰️ Lunar Lander DQN
+
+This project implements a Deep Q-Network (DQN) agent to solve the [Lunar Lander](https://gymnasium.farama.org/environments/box2d/lunar_lander/) environment from the Gymnasium library. It was developed as part of my MSc Data Science & AI at the University of Liverpool. The agent learns to land a spacecraft safely using reinforcement learning techniques.
+
+---
+
+## 🎮 Agent Demo
+
+<div align="center">
+  <img src="media/lander_demo.gif" width="600" alt="Lunar Lander Agent Demo">
+</div>
+
+---
+
+## 📊 Training Performance
+
+### 🚀 Reward per Episode
+
+<div align="center">
+  <img src="rewards_for_1000_training_episodes.png" width="500" alt="Reward per Episode">
+</div>
+
+### 📉 Average Loss per Episode
+
+<div align="center">
+  <img src="training_loss_for_1000_episodes.png" width="500" alt="Average Loss per Episode">
+</div>
+
+---
+
+## 🧠 Approach
+
+- **Algorithm**: Deep Q-Network (DQN)  
+- **Exploration Strategy**: ε-greedy with decay  
+- **Stabilization Techniques**: Experience Replay, Target Network  
+- **Frameworks**: PyTorch, Gymnasium  
+
+---
+
+## 🗂️ Project Structure
+
+Lunar-Lander-DQN/
+├── Lunar_Lander_DQN.ipynb # Main notebook with training & evaluation
+├── plots/
+│ ├── rewards_for_1000_training_episodes.png # Reward visualization
+│ └── training_loss_for_1000_episodes.png # Loss visualization
+├── media/
+│ └── lunar_lander_agent.gif # Agent demo GIF
+├── README.md # Project overview
