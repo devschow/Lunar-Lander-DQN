@@ -17,13 +17,13 @@ This project implements a Deep Q-Network (DQN) agent to solve the [Lunar Lander]
 ### 🚀 Reward per Episode
 
 <div align="center">
-  <img src="rewards_for_1000_training_episodes.png" width="500" alt="Reward per Episode">
+  <img src="plots/rewards_for_1000_training_episodes.png" width="500" alt="Reward per Episode">
 </div>
 
 ### 📉 Average Loss per Episode
 
 <div align="center">
-  <img src="training_loss_for_1000_episodes.png" width="500" alt="Average Loss per Episode">
+  <img src="plots/training_loss_for_1000_episodes.png" width="500" alt="Average Loss per Episode">
 </div>
 
 ---
